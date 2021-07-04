@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom:150px ;
 }
 .half-width{
     width: 50%;
@@ -31,3 +32,8 @@ font-width:700 ;
  background-image: url(images/top-banner.png); 
  background-repeat:no-repeat ;  
 } 
+.drem{
+background-image: url(images/dream-bg.png) ; 
+background-repeat: no-repeat;  
+background-position:right ;
+}
